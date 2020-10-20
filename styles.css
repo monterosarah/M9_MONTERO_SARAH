@@ -43,13 +43,15 @@ p {
 
 nav {
     background-color: #AC768E;
-    margin-bottom: -2.5%;
+    margin-bottom: -3.5%;
+    position: relative;
+    z-index: 1;
 }
 
 nav ul {
     list-style-type: none;
     text-align: center;
-    padding: 3%;
+    padding: 2.75%;
     margin-top: -3%;
 }
 
