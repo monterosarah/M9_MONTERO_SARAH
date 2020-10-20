@@ -43,12 +43,13 @@ p {
 
 nav {
     background-color: #AC768E;
+    margin-bottom: -2.5%;
 }
 
 nav ul {
     list-style-type: none;
     text-align: center;
-    padding: 4%;
+    padding: 3%;
     margin-top: -3%;
 }
 
@@ -59,4 +60,20 @@ nav ul li {
     font-family: 'Lato', sans-serif;
     color: white;
     padding: 3%;
+}
+
+/* Image */
+
+#banner {
+    width: 119.5%;
+    margin-left: -10%;
+    margin-bottom: -7%;
+}
+
+#img1, #img2, #img3 {
+    width: 80%;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 10%;
+    margin-bottom: -2%;
 }
