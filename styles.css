@@ -1,17 +1,33 @@
 /* Header and Paragraph Fonts */
 h1 {
-    font-family: cursive;
+    font-family: 'Sacramento', cursive;
+    font-size: 3.75rem;
+    color: #E3ACB1;
+    text-align: center;
 }
 
 h2 {
-
+    font-family: 'Sacramento', cursive;
+    font-size: 2.7rem;
+    color: #E3ACB1;
+    text-align: center;
+    padding: 8%;
 }
 
 h3 {
-
+    font-family: 'Sacramento', cursive;
+    font-size: 2.25rem;
+    color: #E3ACB1;
+    text-align: center;
 }
 
 p {
-
+    font-family: Helvetica Neue, sans-serif;
+    font-size: 1.25rem;
+    text-align: center;
+    line-height: 1.75rem;
+    padding-left: 5%;
+    padding-right: 5%;
+    margin-top: -12%;
 }
 
