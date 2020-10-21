@@ -66,6 +66,11 @@ nav ul li {
 
 /* Image */
 
+figure {
+    margin: 0;
+    padding: 0;
+}
+
 img {
     display: block;
     margin-left: auto;
@@ -87,14 +92,12 @@ footer {
     background: #AC768E;
     margin-top: 5%;
     clear: both;
+    padding: 3%;
 }
 
 footer p {
-    width: 80%;
+    width: 90%;
     font-size: 1rem;
     color: white;
-    margin-top: 5%;
-    margin: 2%;
-    padding-left: 3%;
-    padding-right: 3%;
+    margin: 0;
 }
