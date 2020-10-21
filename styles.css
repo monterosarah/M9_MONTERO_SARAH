@@ -149,3 +149,50 @@ footer p {
         width: 33.25%;
     }
 }
+
+/*** DESKTOP STYLES ***/
+
+@media (min-width: 1024px) {
+    h1 {
+        font-size: 4rem;
+        margin-top: 3%;
+        margin-bottom: 5%;
+    }
+    
+    h2 {
+        font-size: 3rem;
+        padding-bottom: 10%;
+        margin-top: 0;
+    }
+    
+    h3 {
+        font-size: 2rem;
+    }
+    
+    p {
+        font-size: 1.15rem;
+    }
+
+    nav ul {
+        padding: 2%;
+    }
+
+    #banner {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 95%;
+    }
+
+    #img1, #img2, #img3 {
+        margin: auto;
+        padding: 0;
+        width: 90%;
+    }
+    
+    .imgfloat {
+        margin-top: 5%;
+        float: left;
+        width: 33.25%;
+    }
+}
