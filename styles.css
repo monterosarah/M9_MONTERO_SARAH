@@ -156,13 +156,13 @@ footer p {
     h1 {
         font-size: 4rem;
         margin-top: 3%;
-        margin-bottom: 5%;
+        margin-bottom: 3.5%;
     }
     
     h2 {
-        font-size: 3rem;
-        padding-bottom: 10%;
-        margin-top: 0;
+        font-size: 2rem;
+        padding-bottom: 11%;
+        margin-top: -3.5%;
     }
     
     h3 {
@@ -170,7 +170,10 @@ footer p {
     }
     
     p {
-        font-size: 1.15rem;
+        font-size: 1rem;
+        line-height: 1.25rem;
+        padding-left: 2%;
+        padding-right: 2%;
     }
 
     nav ul {
