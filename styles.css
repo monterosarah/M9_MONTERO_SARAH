@@ -174,7 +174,12 @@ footer p {
     }
 
     nav ul {
-        padding: 2%;
+        padding: 1%;
+    }
+
+    nav ul li {
+        font-size: 1.25rem;
+        padding: 1.75%;
     }
 
     #banner {
