@@ -132,15 +132,22 @@ footer p {
 
     #banner {
         display: block;
+        margin-top: 3%;
         margin-left: auto;
         margin-right: auto;
         width: 95%;
     }
 
+    #ad {
+        margin-left: auto;
+        margin-right: auto;
+        width: 85%;
+    }
+
     #img1, #img2, #img3 {
         margin: auto;
         padding: 0;
-        width: 90%;
+        width: 85%;
     }
     
     .imgfloat {
@@ -187,9 +194,16 @@ footer p {
 
     #banner {
         display: block;
+        margin-top: 3%;
         margin-left: auto;
         margin-right: auto;
-        width: 95%;
+        width: 85%;
+    }
+
+    #ad {
+        margin-left: auto;
+        margin-right: auto;
+        width: 75%;
     }
 
     #img1, #img2, #img3 {
