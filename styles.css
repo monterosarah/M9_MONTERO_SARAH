@@ -219,19 +219,22 @@ footer p {
     }
 
     footer {
-        height: 20px;
+        padding-top: 5%;
+        padding-bottom: 4%;
     }
-    
+
     .info {
-        width: 78%;
-        margin-left: 14.25%;
-        margin-top: -1%;
+        width: auto;
+        margin-left: 10.5%;
+        margin-right: 10.5%;
+        margin-top: -1.35%;
     }
 
     footer p {
+        display: inline;
         margin-bottom: 1%;
         margin-left: .5%;
-        font-size: .9rem;
+        font-size: 1rem;
         float: left;
         line-height: 1.25rem;
         width: auto;
